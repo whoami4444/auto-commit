@@ -1,14 +1,25 @@
 # Auto Commit Generator
 
-<img width="1169" alt="스크린샷 2024-05-30 오후 4 53 48" src="https://github.com/love1ace/auto-commit/assets/147500032/d772669f-230f-4799-ac74-676c71027af0">
+<img width="1169" alt="" src="https://github.com/love1ace/auto-commit/assets/147500032/a333cb9e-7f97-4b54-ba17-248694fc733d">
+
 
 ## Introduction
 
-**Auto Commit Generator** is a Node.js script that automates the process of generating multiple Git commits over a specified date range. This tool is useful for developers who need to simulate activity in their repositories or test CI/CD pipelines with numerous commits.
+**Auto Commit Generator** is a Node.js script that automates the creation of multiple Git commits over a specified date range.
+<br><br>
+## Before / After
 
-1. **Before**:
 
-2. **After**:
+**Before**:
+
+<img width="765" alt="스크린샷 2024-05-30 오후 5 26 31" src="https://github.com/love1ace/auto-commit/assets/147500032/4c2d6336-a768-46e4-9751-198db730d82b">
+
+
+
+**After**:
+
+<img width="765" alt="스크린샷 2024-05-30 오후 5 39 42" src="https://github.com/love1ace/auto-commit/assets/147500032/73e40b1c-3fe1-42dc-a139-04f22d2e6ec0">
+
    
 
 
