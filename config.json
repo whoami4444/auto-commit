@@ -1,0 +1,10 @@
+{
+  "repository": "https://github.com/yourusername/your-repo.git",
+  "startDate": "YYYY-MM-DD",
+  "endDate": "YYYY-MM-DD", 
+  "commitMessage": "your commit message",
+  "minCommits": 1,
+  "maxCommits": 5,
+  "gitUser": "githubusername", 
+  "gitEmail": "githubemail@example.com" 
+}
